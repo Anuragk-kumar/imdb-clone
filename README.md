@@ -1,6 +1,9 @@
 # imdb-clone
 
-link - https://akashpadampalle.github.io/imdb-clone/
+link - https://anuragk-kumar.github.io/imdb-clone/
+img
+![Uploading Screenshot (705).png…]()
+
 
 in this project i tried to replecate the features of imdb
 which is for front end skill test in coding ninjas
